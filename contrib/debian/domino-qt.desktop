@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Domino
+Comment=Domino P2P Cryptocurrency
+Comment[fr]=Domino, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Domino, eşten eşe kriptografik sanal para birimi
+Exec=domino-qt %u
+Terminal=false
+Type=Application
+Icon=domino128
+MimeType=x-scheme-handler/domino;
+Categories=Office;Finance;
